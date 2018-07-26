@@ -174,3 +174,7 @@ Below is the most conventional approach for designing a
 process model, in order of occurrence:
 
 ![Figure 2](./img/bpmn_2.0_figure2.png)
+* Figure 2 : Process model for each individual process
+
+![Figure 3](./img/bpmn_2.0_figure3.png)
+* Figure 3 : Results of Business Process Modeling
